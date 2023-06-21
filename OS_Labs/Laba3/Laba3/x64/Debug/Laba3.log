@@ -1,0 +1,7 @@
+﻿  Laba3.cpp
+C:\Users\Aegon\Desktop\Laba3\Laba3\Laba3.cpp(37,32): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Aegon\Desktop\Laba3\Laba3\Laba3.cpp(39,22): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\Aegon\Desktop\Laba3\Laba3\Laba3.cpp(39,39): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\Aegon\Desktop\Laba3\Laba3\Laba3.cpp(79,27): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\Aegon\Desktop\Laba3\Laba3\Laba3.cpp(79,55): warning C4018: <=: несоответствие типов со знаком и без знака
+  Laba3.vcxproj -> C:\Users\Aegon\Desktop\Laba3\x64\Debug\Laba3.exe
